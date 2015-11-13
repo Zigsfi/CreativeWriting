@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,100);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic);
+h1, h2{
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+}
+
+p {
+    margin-left:20vw;
+    margin-right:20vw;
+}
