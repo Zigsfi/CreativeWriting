@@ -10,7 +10,7 @@ p {
 body {
     margin:0;
     padding:0;
-    background-color:#eee;
+    background-color:#eef;
 }
 
 
@@ -22,6 +22,7 @@ a {
 }
 
 .post {
+    text-color:black;
     background-color:#f1f1f1;
     display:block;
     padding:1em;
@@ -31,6 +32,9 @@ a {
 }
 .post p {
     margin: 1em;
+}
+a.post  {
+    text-decoration:none;
 }
 
 @media (min-width: 768px) {
